@@ -19,8 +19,6 @@ Plateforme d'intelligence artificielle et de finance quantitative dédiée au pr
 
 ## English Below 
 
-# 📈 Deep Learning & Quantitative Finance: Deep Hedging From Scratch
-
 Artificial intelligence and quantitative finance platform dedicated to option pricing and dynamic risk hedging (*Deep Hedging*). This project breaks away from deep learning black boxes by coding the entire neural network and optimization algorithms in pure Python/NumPy (*From Scratch*).
 
 ## 📊 Key Features
